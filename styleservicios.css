@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(100, 96, 96);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(47, 114, 214, 0.952);
+    text-transform: capitalize;
+    text-align: center;
+}
+article {
+    background-color: rgba(214, 214, 214, 0.863);
+}
+th ¨{
+    background-color: rgb(241, 90, 90);
+}
